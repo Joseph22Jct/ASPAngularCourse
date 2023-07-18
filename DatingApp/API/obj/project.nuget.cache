@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v1e2eD2FJKBUlDeFL6G7J8t6icTGV3QhNYZBLNA0mcNsSubcP5Drh/JJ2h9LEtMjbGBObbMfILf92JFvnxjWpA==",
+  "dgSpecHash": "f10UhJUScPNnRZhpkGPDnCaubkC3MqOuuAklfcfYwUqSWh9tTECTdJseHqZX2BlvhbU3LzekLNaCIp7YlvDqhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Giuse\\OneDrive\\Escritorio\\ASPCourse\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giuse\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Giuse\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0-preview.6.23329.4\\microsoft.data.sqlite.core.8.0.0-preview.6.23329.4.nupkg.sha512",
