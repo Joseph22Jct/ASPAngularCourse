@@ -1308,19 +1308,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Giuse\\.nuget\\packages\\": {}
+    "C:\\Users\\Giuse\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Giuse\\OneDrive\\Escritorio\\ASPCourse\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Giuse\\OneDrive\\Escritorio\\ASPCourse\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Giuse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Giuse\\OneDrive\\Escritorio\\ASPCourse\\ASPAngularCourse\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Giuse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

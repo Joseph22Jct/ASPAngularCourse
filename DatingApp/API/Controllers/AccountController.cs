@@ -36,6 +36,11 @@ namespace API.Controllers
             return user;
         }
 
+        [HttpPost("Login")]
+        public async Task<AppUser> Login(LoginDto loginDto){
+
+        }
+
         private async Task<bool> UserExists(string username){
             return await _context.Users.AnyAsync(x => x.UserName == username.ToLower());
         }
