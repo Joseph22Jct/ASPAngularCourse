@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4iIRhmG4yNKxlwCWY9NZz6RYeOCO9JniKH8UuYjI/a0QPridtxfkyt9FmhArwzpaAc6HTnsFrj5vjYzUzvmxFw==",
+  "dgSpecHash": "oNcehaYlIvqFvvSGznG5/rg9NAXT2R6OjhonjqBUbYsqc9wtAPTgGyx6LSOWplXtgt+JXNUXFcjtWljKQrG61A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Giuse\\OneDrive\\Escritorio\\ASPCourse\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Giuse\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Giuse\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
