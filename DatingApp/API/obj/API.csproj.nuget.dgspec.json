@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Giuse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\Giuse\\Desktop\\ASPWork\\ASPAngularCourse\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,8 +25,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +43,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.9, )"
