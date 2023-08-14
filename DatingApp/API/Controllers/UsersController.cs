@@ -15,11 +15,11 @@ namespace API.Controllers
     {
         
         public IUserRepository UserRepository { get; }
-        private readonly IMapper _mapper;
 
-        public UsersController(IUserRepository userRepository, IMapper mapper)
+
+        public UsersController(IUserRepository userRepository)
         {
-            this._mapper = mapper;
+            
             this.UserRepository = userRepository;
             
         }
